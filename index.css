@@ -8,6 +8,7 @@ body {
     background-size: cover;
     background-position: 0 0, center;
     color: white;
+    height: 500px;
 }
 
 .nav-link {
