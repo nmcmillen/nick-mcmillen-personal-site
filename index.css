@@ -8,7 +8,7 @@ body {
     background-size: cover;
     background-position: 0 0, center;
     color: white;
-    height: 500px;
+    height: 50vh;
 }
 
 #blog-header {
@@ -18,3 +18,7 @@ body {
 .nav-link {
     color: white;
 }
+
+
+
+
