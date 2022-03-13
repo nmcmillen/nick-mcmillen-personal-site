@@ -1,0 +1,24 @@
+body {
+    background-color: lightgray;
+}
+
+#header-hero {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7) ), url("https://source.unsplash.com/1920x1080/?Landscape");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 0, center;
+    color: white;
+    height: 50vh;
+}
+
+#blog-header {
+    width: 100%;
+}
+
+.nav-link {
+    color: white;
+}
+
+
+
+
